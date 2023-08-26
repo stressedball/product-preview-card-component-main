@@ -60,7 +60,7 @@ main {
 }
 
 .image-container {
-    background: url('./images/image-product-desktop.jpg');
+    background: url('images/image-product-desktop.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border-top-left-radius: 14px;
@@ -148,7 +148,7 @@ footer {
         border-radius: inherit;
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
-        background: url('./images/image-product-mobile.jpg');
+        background: url('images/image-product-mobile.jpg');
         background-position: center;
         background-size: cover;
     }
